@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1794927454 source:c:\users\user\downloads\smart-factory-automated-robotic-arm-grid\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+
